@@ -1,0 +1,74 @@
+body{
+        max-width: 1440px;
+        max-height: 3598px;
+        top: 247px;
+        left: 353px;
+            margin: auto;
+         background-image: url("art.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+    margin: 0
+}
+.header{
+    height: 20px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif  ;
+}
+.nav{
+    background-color: rgb(175, 176, 177);
+    height: 100px;
+    text-align: center;
+    margin-top: 30px;
+}
+.content_container{
+    display: flex;
+    margin-top: 200px;
+    width:(1200px);
+    height:hug(605px);
+    top: 200px;
+    left: 120px;
+    gap: 80px;
+}
+
+
+.content{
+     width: 284px;
+    height: 400px;
+    background-image:url(mt\ fuji.jpg);
+    text-align: center;
+    border-radius: 12px;
+}
+
+.main_content{
+     width: 284px;
+    height: 400px;
+    background-image: url(night.jpg);
+     text-align: center;
+     border-radius: 12px;
+}   
+
+.content2{
+    width: 284px;
+    height: 400px;
+    background-image: url(Magnitogorsk\ -\ Soviet\ City_\ The\ rapid\ development….jpg);
+    text-align: center;
+    margin-bottom: 5px;
+    border-radius: 12px;
+}
+.content3{
+    width: 284px;
+    height: 400px;
+    background-image: url(snow\ forest.jpg);
+    text-align: center;
+    margin-bottom: 5px;
+    border-radius: 12px;    
+}
+
+.footer{  
+    background-color: rgb(42, 47, 92);
+    height: 100px;
+    text-align: center;}
