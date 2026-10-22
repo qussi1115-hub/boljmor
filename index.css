@@ -68,7 +68,13 @@ body{
     border-radius: 12px;    
 }
 
-.footer{  
+.voljmors{  
     background-color: rgb(42, 47, 92);
     height: 100px;
-    text-align: center;}
+    text-align: center;
+}
+.doljmors{
+    background-color:rgb(39, 29, 170);
+    height: 100px;
+    text-align: center;
+}
